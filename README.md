@@ -1,34 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Web Scraper - Read Me</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      padding: 20px;
-    }
-css
-Copy code
-h1 {
-  font-size: 24px;
-  margin-bottom: 20px;
-}
-
-h2 {
-  font-size: 18px;
-  margin-bottom: 15px;
-}
-
-code {
-  background-color: #f5f5f5;
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-  </style>
-</head>
 <body>
   <h1>Web Scraper</h1>
   <p>This Python script is a web scraper that extracts data from specific websites. It uses the <code>requests</code> library to fetch web pages and the <code>BeautifulSoup</code> library to parse the HTML content. The script supports scraping data from two websites: 'virginiasports' and 'yalebulldogs'.</p>
